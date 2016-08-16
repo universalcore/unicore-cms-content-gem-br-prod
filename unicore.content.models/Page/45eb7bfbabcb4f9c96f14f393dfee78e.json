@@ -1,17 +1,17 @@
 {
-  "subtitle": "Voc\u00ea pode ter um \u00f3timo curr\u00edculo \u2013 mesmo se nunca teve um emprego", 
-  "description": "", 
+  "subtitle": "", 
+  "description": "Voc\u00ea pode ter um \u00f3timo curr\u00edculo \u2013 mesmo se nunca teve um emprego", 
   "language": "por_PT", 
   "title": "Prepare um bom curr\u00edculo", 
   "primary_category": "b224ca3e6e394e529b6cb2368d983991", 
-  "created_at": "2016-08-03T10:23:46.818088+00:00", 
+  "created_at": "2016-08-03T10:23:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-08-03T10:23:46.818417+00:00", 
+  "modified_at": "2016-08-16T13:18:43.082729+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 15, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "prepare-um-bom-curriculo", 
   "uuid": "45eb7bfbabcb4f9c96f14f393dfee78e"
